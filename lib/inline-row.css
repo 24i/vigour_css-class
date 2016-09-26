@@ -1,0 +1,9 @@
+.inline-row {
+  white-space: nowrap;
+
+  & > div {
+    vertical-align: top;
+    white-space: normal;
+    display: inline-block;
+  }
+}

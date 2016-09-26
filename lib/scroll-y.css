@@ -1,0 +1,8 @@
+.scroll-y {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.play-fullscreen .scroll-y {
+  overflow-y: hidden;
+}

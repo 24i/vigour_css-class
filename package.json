@@ -1,5 +1,5 @@
 {
-  "name": "@vigour-io/play-css-class",
+  "name": "@vigour-io/css-class",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vigour-io/play-css-class.git"
+    "url": "git+https://github.com/vigour-io/css-class.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vigour-io/play-css-class/issues"
+    "url": "https://github.com/vigour-io/css-class/issues"
   },
   "dependencies": {
     "postcssify": "^2.1.1"
@@ -34,7 +34,7 @@
   "contributors": [
     "Youri Daamen <youri@vigour.io>"
   ],
-  "homepage": "https://github.com/vigour-io/play-css-class#readme",
+  "homepage": "https://github.com/vigour-io/css-class#readme",
   "browserify": {
     "transform": [
       "postcssify"

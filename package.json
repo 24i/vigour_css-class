@@ -1,6 +1,6 @@
 {
   "name": "@vigour-io/css-class",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Reusable CSS classes for Vigour apps",
   "main": "lib/index.js",
   "scripts": {

@@ -17,3 +17,31 @@ npm i @vigour-io/css-class --save
 ```js
 require('@vigour-io/css-class')
 ```
+
+### Use it:
+```js
+const render = require('brisky/render')
+
+const app = {
+  element: {
+    class: 'flex-grid full-absolute'
+  }
+}
+
+document.body.appendChild(render(element))
+```
+
+## Available classes:
+
+```
+.flex-column
+.flex-grid
+.flex-row
+.full-absolute
+.full-fixed
+.inline-row
+.justify-center
+.scroll-x
+.scroll-y
+.transform-03s
+```
